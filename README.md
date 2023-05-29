@@ -2,10 +2,11 @@
 ![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/700e95d0-3e56-4627-92bc-a17e30e00468)
 ![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/adf19134-69de-4bf7-8c42-cb6696f7d142)
 ![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/e3ec90aa-fc9d-47b2-8f98-11874349e320)
+![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/f0f8a406-1df8-4835-91e6-e77b90593ded)
 ![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/0602631e-c657-413d-aeaa-7ce2541ffae5)
 ![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/666efb90-5f4d-4248-9c14-f9a613c3f85d)
-
-
+![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/21e8d312-2496-4ddc-983e-2dd345585e0e)
+![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/0bc77433-5e38-47fd-8dee-8cfffd85ed91)
 
 
 # Getting Started with Create React App
