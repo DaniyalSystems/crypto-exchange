@@ -1,3 +1,13 @@
+
+![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/700e95d0-3e56-4627-92bc-a17e30e00468)
+![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/adf19134-69de-4bf7-8c42-cb6696f7d142)
+![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/e3ec90aa-fc9d-47b2-8f98-11874349e320)
+![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/0602631e-c657-413d-aeaa-7ce2541ffae5)
+![image](https://github.com/DaniyalSystems/crypto-exchange/assets/96725272/666efb90-5f4d-4248-9c14-f9a613c3f85d)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
